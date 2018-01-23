@@ -122,11 +122,11 @@
     "SubmitResultDialog_NoDeviceCheckedTitle": "Tidak ada perangkat yang dipilih",
     "SubmitResultDialog_NoDeviceCheckedMsg": "Tolong pilih satu perangkat untuk mengirim hasil benchmark.",
     "SubmitResultDialog_UsePreviousBenchmarkedValueTitle": "Gunakan nilai benchmark sebelumnya?",
-    "SubmitResultDialog_UsePreviousBenchmarkedValueMsg": "You could use previously benchmarked values. Choose Yes to use previously benchmarked values or choose No to re-run the benchmark.",
+    "SubmitResultDialog_UsePreviousBenchmarkedValueMsg": "Anda bisa menggunakan nilai benchmark sebelumnya. Pilih Ya untuk menggunakan nilai acuan sebelumnya atau pilih Tidak untuk menjalankan kembali benchmark.",
 
 
     "Form_Settings_General_DebugConsole": "Debug Console",
-    "Form_Settings_General_AutoStartMining": "Autostart Mining",
+    "Form_Settings_General_AutoStartMining": "Otomatis memulai penambangan",
     "Form_Settings_General_HideMiningWindows": "Hide Mining Windows",
     "Form_Settings_General_MinimizeToTray": "Minimize To Tray",
     "Form_Settings_General_DisableDetection": "Disable Detection of {0}",
